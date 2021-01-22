@@ -1,0 +1,2546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Style id="22587089">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="26025922">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="33437903">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="36221164">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="82299228">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="97943579">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="105321604">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="171073836">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="210137479">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="215732494">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="240551129">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="323191211">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="371771186">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="548258946">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="599495603">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="649279370">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="688490680">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="708369430">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="817970850">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="894812392">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="925349521">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="937193946">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="951101139">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1044705058">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1138992336">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1150434386">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1160776293">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1178718842">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1240327604">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1315009313">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1380795588">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1408338071">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1410339415">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1466627559">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1509067833">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1537109422">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1574704630">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1579200128">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1685781844">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1764587366">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1811945533">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="1984396571">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2005790739">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2024367562">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2030833504">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2064212266">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2082267339">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2085329942">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2086354585">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2171341342">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2194549349">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2236368140">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2263568372">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2268361087">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2519574643">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2571186686">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2572183269">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2698590961">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2843367578">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2884131662">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2896812028">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2919077169">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="2921952545">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="3039169280">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="3040935801">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="3175717847">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="3348181407">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="3356417751">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="3443488892">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="3468281990">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="3588366278">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="3685463213">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="3715323219">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="3764181821">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="3935710120">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="3950053474">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="4013013741">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="4054749235">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="4170044177">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="4234577069">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="4263621900">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Style id="4292791648">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Folder>
+<name>临海</name>
+<Placemark>
+  <name>浙江中革实业有限公司</name>
+  <description/>
+  <styleUrl>#3175717847</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.603004760574,28.7117932090149,-0.220159530407885
+          121.605021781754,28.7116644629822,1.19377042270204
+          121.604978866409,28.7110743769989,0.277932254419968
+          121.604914493393,28.7110743769989,0.152607420500695
+          121.604764289688,28.7090573558197,-0.760554219883641
+          121.602790183853,28.7092182883606,-1.15372020216246
+          121.603004760574,28.7117932090149,-0.220159530407885
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州合力革业有限公司</name>
+  <description/>
+  <styleUrl>#1044705058</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.600774945755,28.712179661377,-0.462927071660034
+          121.603028001328,28.7119758134918,0.0390853921845503
+          121.603317679901,28.7145721918182,3.67560972375721
+          121.601021708984,28.7147545820313,4.32401735377296
+          121.600774945755,28.712179661377,-0.462927071660034
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江盛麒科技有限公司</name>
+  <description/>
+  <styleUrl>#2519574643</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.601209373016,28.7171445952454,3.70157776848327
+          121.603569716949,28.717434273819,3.62267690444569
+          121.603355140228,28.7146447764435,3.71135484972269
+          121.600994796295,28.7148164378204,4.29782365424594
+          121.601209373016,28.7171445952454,3.70157776848327
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>临海市联盛化学有限公司</name>
+  <description/>
+  <styleUrl>#3950053474</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.545740724854,28.7038938161469,4.81475112224134
+          121.547940136246,28.7050632592773,3.23952841659598
+          121.548122526459,28.7050525304413,3.52077794092982
+          121.549238325409,28.7034432050324,3.58101908348995
+          121.547049642853,28.7023166772461,3.16430331121353
+          121.546910167984,28.7023166772461,2.96117861796941
+          121.546813608459,28.7023381349182,2.75805393038386
+          121.546749235443,28.7023595925903,2.6018041720085
+          121.545740724854,28.7038938161469,4.81475112224134
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州禾欣高分子新材料有限公司</name>
+  <description/>
+  <styleUrl>#4234577069</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.551954295631,28.7042830502625,4.64208111633638
+          121.553204205032,28.7049643313522,4.31575354249255
+          121.553284671303,28.7049750601883,4.19856621946709
+          121.553365137573,28.7049750601883,4.08137889644163
+          121.553445603844,28.7049696957703,3.99999359711956
+          121.553520705696,28.7049053227539,3.99999359711956
+          121.554019596573,28.7041703974838,3.99999359711956
+          121.552581932541,28.7033925568695,3.99999359711956
+          121.551954295631,28.7042830502625,4.64208111633638
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江荣耀生物科技有限公司</name>
+  <description/>
+  <styleUrl>#210137479</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.536990646141,28.6961375495987,3.99999359711956
+          121.537403706329,28.6939435026245,2.99999528837702
+          121.540901306885,28.6944584867554,1.70155332762586
+          121.5403702295,28.6966471693115,4.47187005116903
+          121.540155652779,28.6967169067459,4.05780817647907
+          121.540021542328,28.6967705509262,3.99999359711956
+          121.536990646141,28.6961375495987,3.99999359711956
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江万盛科技有限公司两水地块</name>
+  <description/>
+  <styleUrl>#1811945533</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.151954804893,28.8328598994751,6.99998906657129
+          121.15356949472,28.8326989669342,6.67399858109738
+          121.153301273819,28.8311057347794,5.99999057675404
+          121.152024542328,28.831218387558,6.08105358766719
+          121.151954804893,28.8328598994751,6.99998906657129
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江万盛科技有限公司伏龙地块</name>
+  <description/>
+  <styleUrl>#925349521</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.149374872353,28.8439602982864,8.1236362741684
+          121.151102214958,28.8424636256561,7.96289688882502
+          121.150544315483,28.8419325482712,7.84041469303776
+          121.149557262566,28.8423402440414,7.59508890119814
+          121.150002509262,28.8427533042297,7.30400063069073
+          121.14889207473,28.8437242638931,7.85603966378257
+          121.149374872353,28.8439602982864,8.1236362741684
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江燎原药业有限公司</name>
+  <description/>
+  <styleUrl>#599495603</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.545857653412,28.6960195304413,5.37757433895076
+          121.546833977493,28.6945818664093,6.48627435348765
+          121.549001202377,28.6933373214264,5.4024224569683
+          121.550631985458,28.6942492724915,6.06181717226351
+          121.549902424606,28.6952148677368,5.68872724681042
+          121.551061138901,28.6958156825562,6.31058059659355
+          121.550513968262,28.6965237857361,6.76628773062448
+          121.549355253967,28.695965886261,5.99999057675404
+          121.548400387558,28.6974571944733,5.14286303784779
+          121.545857653412,28.6960195304413,5.37757433895076
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州市德长环保有限公司</name>
+  <description/>
+  <styleUrl>#2919077169</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.575735465576,28.7121174815063,6.94818318925329
+          121.576207534363,28.7113450053101,6.99998906657129
+          121.577677384903,28.7120852949982,6.67409851428016
+          121.577720300247,28.7120423796539,6.61159860866658
+          121.577881232788,28.7119458201294,6.37722396261567
+          121.579962626984,28.7087271693115,6.11429635968562
+          121.582172767212,28.709885883606,5.85807061329605
+          121.580348865082,28.7129865172272,5.46604438311097
+          121.580155746033,28.712954330719,5.72943502978852
+          121.57997335582,28.7129328730469,5.76068498259531
+          121.579694406082,28.7128470423584,5.88568479382247
+          121.579404727509,28.712771940506,5.99012868053841
+          121.579061404755,28.7127182963257,6.0731845106632
+          121.57891120105,28.7126968386536,6.10443446346999
+          121.578524962952,28.7127612116699,5.99999057675404
+          121.578246013214,28.7128470423584,5.88568479382247
+          121.577934876968,28.7129328730469,5.99999057675404
+          121.577763215591,28.7129328730469,5.99999057675404
+          121.577527181198,28.7129328730469,5.86782586523892
+          121.577355519821,28.7129006865387,5.80755991180549
+          121.577226773788,28.7128363135223,5.90130977022586
+          121.575735465576,28.7121174815063,6.94818318925329
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州市海盛制药有限公司</name>
+  <description/>
+  <styleUrl>#2085329942</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.548684199722,28.6976214087372,5.16112673248252
+          121.549456675919,28.6980398333435,5.67675095379454
+          121.550438364418,28.6966558134918,6.65618181911452
+          121.549295743378,28.6960871851807,5.99999057675404
+          121.548780759247,28.6968864834671,5.99999057675404
+          121.549081166656,28.6970635092621,5.99999057675404
+          121.548684199722,28.6976214087372,5.16112673248252
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>临海市杜桥精细化工厂</name>
+  <description/>
+  <styleUrl>#97943579</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.540490295631,28.6984400588608,4.13260889684632
+          121.540753152115,28.6979733544922,3.99999359711956
+          121.541611459,28.6983166772461,3.99999359711956
+          121.541370060188,28.6987565595245,4.14402939072247
+          121.540490295631,28.6984400588608,4.13260889684632
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江巨登化工科技有限公司</name>
+  <description/>
+  <styleUrl>#2005790739</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.54820925264,28.7069150330658,3.99999359711956
+          121.549062195107,28.705697310173,3.95024032569929
+          121.550172629639,28.7062766673203,4.72367664865824
+          121.549330416008,28.7075158478851,4.35018433493591
+          121.54820925264,28.7069150330658,3.99999359711956
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>临海市东方特种电镀厂（新厂区）</name>
+  <description/>
+  <styleUrl>#3935710120</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.552652836632,28.7086919067459,3.99999359711956
+          121.553478957008,28.7091210601883,4.77231969743396
+          121.553999305557,28.7084022281723,4.64106875119661
+          121.553205371689,28.7079462526398,4.02297994018677
+          121.552652836632,28.7086919067459,3.99999359711956
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>临海市金桥化工有限公司</name>
+  <description/>
+  <styleUrl>#2236368140</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.538839351837,28.6985017361069,4.98633742977586
+          121.5411192295,28.6991401018524,5.06790066216701
+          121.540775906746,28.6998106541061,6.28708232097439
+          121.538721334641,28.6987806858444,5.22071207582677
+          121.538839351837,28.6985017361069,4.98633742977586
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江奥翔药业股份有限公司</name>
+  <description/>
+  <styleUrl>#2884131662</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.550487314789,28.7035292162857,3.99999359711956
+          121.552633082001,28.7006217017136,3.69013093229449
+          121.555422579376,28.7022095694504,5.20759134011414
+          121.554027830688,28.704119302269,3.99999359711956
+          121.552600895493,28.7033575549087,3.99999359711956
+          121.551924978821,28.7042909636459,4.65360579892769
+          121.550487314789,28.7035292162857,3.99999359711956
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江天翔科技有限公司</name>
+  <description/>
+  <styleUrl>#951101139</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.535924394829,28.6999272751465,5.51868329250664
+          121.536879261238,28.7003671574249,5.99999057675404
+          121.538075526459,28.6982643055573,3.87665000572773
+          121.537040193779,28.6979263472214,4.24076994461523
+          121.535924394829,28.6999272751465,5.51868329250664
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江皓华制药（博华化学、信友药业）有限公司</name>
+  <description/>
+  <styleUrl>#240551129</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.544879922615,28.7050668148193,3.78352231878445
+          121.54655362104,28.7059841303024,5.00136745152434
+          121.547320732819,28.7048468736801,3.88418165965229
+          121.545673856483,28.7039832023773,4.71736714708816
+          121.544879922615,28.7050668148193,3.78352231878445
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州市大鹏药业有限公司</name>
+  <description/>
+  <styleUrl>#3039169280</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.549912924923,28.6952175264587,5.66956303686109
+          121.551034088291,28.6957915191879,6.27539019418414
+          121.551591987766,28.694901025795,5.57781334598106
+          121.550642485775,28.6942304735413,6.04652500091325
+          121.549912924923,28.6952175264587,5.66956303686109
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>临海市川南化工厂</name>
+  <description/>
+  <styleUrl>#4263621900</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.540699171619,28.6979472050323,3.99999359711956
+          121.541104185181,28.6970137962952,3.99999359711956
+          121.542158293324,28.697351754631,3.99999359711956
+          121.541645991402,28.6983227142944,3.99999359711956
+          121.540699171619,28.6979472050323,3.99999359711956
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江邦富生物科技有限责任公司（浙江华邦医药化工有限公司）</name>
+  <description/>
+  <styleUrl>#688490680</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.540346486755,28.696772441803,4.25485121224993
+          121.540861470886,28.6968046283112,4.24914608751619
+          121.542170388886,28.6971586799011,3.99999359711956
+          121.542985780426,28.6956459140167,3.45818141585075
+          121.542867763229,28.6954849814758,3.56755623102286
+          121.542878492065,28.6953884219513,3.39568149341481
+          121.542846305557,28.6952704047546,3.23457373572999
+          121.542717559525,28.6951953029022,3.57832317557993
+          121.542545898148,28.6950343703613,3.84880572140519
+          121.540958030411,28.6943155383453,0.829174697707516
+          121.540346486755,28.696772441803,4.25485121224993
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州华峰合成树脂有限公司</name>
+  <description/>
+  <styleUrl>#82299228</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.549381343239,28.7074888379593,4.31084833878195
+          121.551017490738,28.7084222466965,4.5003867747601
+          121.551081863754,28.7084222466965,4.40663691633973
+          121.551140872353,28.7083578736801,4.32069954612106
+          121.551961628311,28.7072206170578,4.92022241851434
+          121.550180641525,28.7062818439026,4.72780585355096
+          121.549381343239,28.7074888379593,4.31084833878195
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江豪博鞋材有限公司</name>
+  <description/>
+  <styleUrl>#1380795588</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.586822558197,28.7147478895493,2.64784180809768
+          121.586881566795,28.7148229914017,2.97596629276391
+          121.586967397484,28.7148605423279,3.09335078337297
+          121.587289262566,28.7149302797623,3.62067741454652
+          121.588673282417,28.7151019411392,4.03892401092937
+          121.588453341278,28.7128864364929,0
+          121.586683083328,28.7130420046158,0
+          121.586822558197,28.7147478895493,2.64784180809768
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江天豪革业有限公司</name>
+  <description/>
+  <styleUrl>#708369430</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.581106928558,28.7161252076874,3.99999359711956
+          121.583241966934,28.7164792592773,3.99999359711956
+          121.583928612442,28.7142905767212,0.649814712764973
+          121.582040337296,28.7137434060822,3.70012041758654
+          121.581922320099,28.7137755925903,4.43449427742386
+          121.581793574066,28.7138721521149,4.46500646403039
+          121.581793574066,28.7138614232788,4.49625641683718
+          121.581106928558,28.7161252076874,3.99999359711956
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江高盛新材料有限公司</name>
+  <description/>
+  <styleUrl>#2082267339</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.595047198395,28.7123378703918,-0.120896973242038
+          121.59484335051,28.7096556613769,-0.396731548755636
+          121.598222933868,28.7093767116394,-1.18692770817561
+          121.59843751059,28.7120696494904,-0.450985962150709
+          121.595047198395,28.7123378703918,-0.120896973242038
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江日胜合成革有限公司</name>
+  <description/>
+  <styleUrl>#1537109422</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.598462608459,28.7120874801788,-0.448851975446807
+          121.600533273819,28.7119801918182,-0.503513245643021
+          121.600189951065,28.7092657962952,-1.46733716604932
+          121.598237302902,28.7093516269836,-1.19593120451108
+          121.598462608459,28.7120874801788,-0.448851975446807
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江海峰革业有限公司</name>
+  <description/>
+  <styleUrl>#2024367562</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.592923111431,28.714443251833,0
+          121.592748767845,28.7126931104507,0
+          121.595830626003,28.7124852392521,-0.138155201893684
+          121.595959372036,28.7142125818577,0.103016826763596
+          121.592923111431,28.714443251833,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州侨业合成革有限公司</name>
+  <description/>
+  <styleUrl>#3443488892</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.595847048935,28.7124878306885,-0.138001603631003
+          121.595986523804,28.7142366309662,0.138040823480632
+          121.595847048935,28.7142688174744,0.184915748446877
+          121.595943608459,28.7151807685394,1.95408620739924
+          121.597778239426,28.7150627513428,3.27635825360767
+          121.597510018524,28.7123161693115,-0.293351756481567
+          121.595847048935,28.7124878306885,-0.138001603631003
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江台州海神制药有限公司</name>
+  <description/>
+  <styleUrl>#1509067833</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.54207820105,28.6990392784348,4.48610698522026
+          121.54436344313,28.7002087215652,3.99999359711956
+          121.546541396851,28.6971295456162,4.77595016972596
+          121.545082275146,28.6964429001083,4.85581417133841
+          121.543623153442,28.6967540363541,3.94633907675263
+          121.54207820105,28.6990392784348,4.48610698522026
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江朗华制药有限公司</name>
+  <description/>
+  <styleUrl>#1240327604</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.54032299469,28.7028860483017,5.39243457205447
+          121.541921591263,28.6996244821396,5.11029117592399
+          121.54650280426,28.7020491990891,3.22238099741856
+          121.54650280426,28.7023603353348,2.31613244807116
+          121.545140242081,28.7042807969894,3.94023603152282
+          121.544700359802,28.704012576088,3.29961211498463
+          121.544142460327,28.7048816118088,3.99999359711956
+          121.54032299469,28.7028860483017,5.39243457205447
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江安格新材料有限公司</name>
+  <description/>
+  <styleUrl>#2698590961</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.533595749321,28.6989361131058,5.01758903814572
+          121.534604259911,28.6973106944427,3.99999359711956
+          121.534936853828,28.6972302281723,3.99999359711956
+          121.53705579895,28.697895416008,4.17299652474632
+          121.536031195107,28.6997193181381,5.67422223538613
+          121.535950728836,28.699692496048,5.55703491236067
+          121.535827347221,28.6998963439331,5.37734768372164
+          121.533595749321,28.6989361131058,5.01758903814572
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江华海致诚药业有限公司</name>
+  <description/>
+  <styleUrl>#1315009313</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.55490005159,28.69654294841,4.27750411707617
+          121.55201399469,28.6950409113617,5.23136975975355
+          121.549728752609,28.6981951891632,5.84673778595426
+          121.552443148132,28.6998152434082,4.86461913581963
+          121.55490005159,28.69654294841,4.27750411707617
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江华洋药业有限公司</name>
+  <description/>
+  <styleUrl>#3588366278</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.582482063477,28.7120297830811,5.0303579662752
+          121.58625861377,28.7123409193268,0
+          121.586054765884,28.7102380674591,0
+          121.583082878296,28.7103668134918,1.60357467756899
+          121.582482063477,28.7120297830811,5.0303579662752
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>临海市华南化工有限公司</name>
+  <description/>
+  <styleUrl>#2030833504</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.537372214264,28.7016909682617,4.50566550015576
+          121.538359267181,28.7021523082123,4.52575420309549
+          121.53926048941,28.7006288134918,5.99999057675404
+          121.540150982803,28.700843390213,5.36727106561062
+          121.540580136246,28.7001460158691,6.0837881168986
+          121.539786202377,28.6997275912628,6.99226861156365
+          121.539957863754,28.699405726181,6.5389602294771
+          121.538724047607,28.6987941825256,5.24431905126353
+          121.538809878296,28.6985152327881,4.96306947600243
+          121.53819833464,28.6982899272308,3.9139642092846
+          121.536803585953,28.7005215251312,5.99999057675404
+          121.537833554214,28.7009184920654,4.9999920869368
+          121.537372214264,28.7016909682617,4.50566550015576
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>东昌工业（临海）有限公司</name>
+  <description/>
+  <styleUrl>#371771186</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.148313711639,28.8234887771378,6.47629179701408
+          121.148957441803,28.8235531501541,6.95720926450862
+          121.149107645508,28.821729248024,6.82401919898643
+          121.151382158752,28.8218043498764,25.5602048385099
+          121.15122659063,28.821182077385,31.0752086394414
+          121.151301692482,28.8210318736801,35.7783263388126
+          121.150695513245,28.821015780426,23.0435677838509
+          121.150411199089,28.82100505159,18.2154506580363
+          121.150121520515,28.8203344993362,18.8286334127746
+          121.148297618385,28.8207314662705,7.00370642627923
+          121.148453186508,28.8212732724915,6.99998906657129
+          121.148313711639,28.8234887771378,6.47629179701408
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江天和树脂有限公司（老厂地块）</name>
+  <description/>
+  <styleUrl>#3685463213</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.106639998672,28.8383567632294,12.4741739767731
+          121.107444661377,28.838104635582,11.5001303560746
+          121.10828151059,28.837927609787,13.3381549151096
+          121.108260052917,28.8374287189102,18.3919801087484
+          121.10770751786,28.8370478452301,20.3114480559
+          121.107557314156,28.8370746673202,18.746172203473
+          121.107632416008,28.8373214305496,16.8868000623963
+          121.107154982803,28.837391167984,13.6714266122528
+          121.106811660049,28.8363558353043,15.0458138398265
+          121.106784837959,28.8360071481323,14.7126728243513
+          121.106302040337,28.8359588683701,10.6715619884607
+          121.105738776443,28.8369030059433,9.03093946610428
+          121.106194751976,28.8378149570084,10.9035676520095
+          121.106639998672,28.8383567632294,12.4741739767731
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>临海市金泽金属表面处理有限公司（新厂区）</name>
+  <description/>
+  <styleUrl>#1138992336</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.556247661377,28.7072596061516,3.88339966097043
+          121.555370579029,28.7067741263199,4.56926217631375
+          121.55471343782,28.707696806221,3.99999359711956
+          121.555622706676,28.7082037437248,4.35200525996154
+          121.556247661377,28.7072596061516,3.88339966097043
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江万盛股份有限公司（园区）</name>
+  <description/>
+  <styleUrl>#2843367578</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.557145761902,28.7119051620407,4.42454077818942
+          121.555278944427,28.7107786342545,4.9999920869368
+          121.557349609787,28.7077209159775,4.37025923283142
+          121.559119867737,28.7087937995834,4.70044471709409
+          121.559162783081,28.7090191051407,4.63794481148051
+          121.557145761902,28.7119051620407,4.42454077818942
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>临海天宇药业有限公司</name>
+  <description/>
+  <styleUrl>#215732494</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.558657841248,28.7033730569,5.36636233366328
+          121.560953812164,28.7001007619019,5.16152508748436
+          121.563260511917,28.7014204087372,3.41918836963772
+          121.562058882278,28.7034267010803,5.99999057675404
+          121.560342268509,28.7025254788513,6.83511011558236
+          121.559430317444,28.7038343968506,4.77428620555498
+          121.558657841248,28.7033730569,5.36636233366328
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州达辰药业有限公司</name>
+  <description/>
+  <styleUrl>#1685781844</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.561833538345,28.7050468545227,5.49714935836223
+          121.561962284378,28.7049932103424,5.76277395721994
+          121.562026657394,28.70491810849,5.96589865046406
+          121.56410805159,28.7019354920654,4.88229330912715
+          121.563324846558,28.7014419656067,3.5133716217438
+          121.562080301575,28.7034697156219,5.99999057675404
+          121.560363687805,28.7025684933929,6.70982137144156
+          121.559462465576,28.703834496048,4.82081631308196
+          121.561833538345,28.7050468545227,5.49714935836223
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江晨马皮革有限公司</name>
+  <description/>
+  <styleUrl>#2896812028</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.588453794968,28.7100687288361,0
+          121.589414025795,28.7100150846558,0
+          121.58967151786,28.7126543783264,0
+          121.588684464943,28.7127187513428,0
+          121.588453794968,28.7100687288361,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江本立科技股份有限公司</name>
+  <description/>
+  <styleUrl>#4292791648</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.569311790985,28.7026357672119,0
+          121.570835285706,28.7000179312134,-0.00876575975352731
+          121.573485308212,28.7011551878357,0
+          121.573560410065,28.7011981031799,0
+          121.573603325409,28.7013053915405,0
+          121.573571138901,28.7014448664093,0
+          121.572262220901,28.7036764643097,0
+          121.572240763229,28.703740837326,0
+          121.572101288361,28.7037837526703,0
+          121.571983271164,28.703740837326,0
+          121.569311790985,28.7026357672119,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江卓越精细化学品有限公司</name>
+  <description/>
+  <styleUrl>#22587089</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.559822661377,28.701696886261,5.55264018566087
+          121.557108265854,28.7001787559586,5.99999057675404
+          121.55820797155,28.6986069814758,5.34720848479646
+          121.558309895493,28.6985908882217,5.23232816939129
+          121.558417183853,28.698644532402,5.15420328737432
+          121.560943824745,28.7000982896881,5.18341467658468
+          121.559822661377,28.701696886261,5.55264018566087
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>临海市东亚眼镜电镀厂（新厂区）</name>
+  <description/>
+  <styleUrl>#1574704630</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.551274566795,28.7086029189796,4.12599319573541
+          121.552277712967,28.7091393607826,3.99999359711956
+          121.552655904438,28.7085492747993,3.99999359711956
+          121.551674215939,28.7080262440414,3.99999359711956
+          121.551274566795,28.7086029189796,4.12599319573541
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>临海市川南劲松表面处理有限公司（新厂区）</name>
+  <description/>
+  <styleUrl>#1408338071</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.551674215939,28.7080235618324,3.99999359711956
+          121.552728324081,28.7085868257256,3.99999359711956
+          121.553254037048,28.7078733581276,4.12914010764192
+          121.552140920307,28.7073154586525,4.94163888061843
+          121.551674215939,28.7080235618324,3.99999359711956
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江天和树脂有限公司（新厂地）</name>
+  <description/>
+  <styleUrl>#2171341342</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.56603189151,28.7013026481628,0.301562850613425
+          121.569304186508,28.70259010849,0
+          121.570806223557,28.6999937301636,-0.00875881109420815
+          121.567372996017,28.6985667949677,-0.00741207742858969
+          121.565946060822,28.7009915119171,0
+          121.56603189151,28.7013026481628,0.301562850613425
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州仙琚药业有限公司</name>
+  <description/>
+  <styleUrl>#1764587366</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.547215705002,28.7017387844086,3.93672648190312
+          121.550466542328,28.7034875846863,3.99999359711956
+          121.552580123032,28.7006337142944,3.67263637298344
+          121.549275641525,28.6988312698364,4.96284643192457
+          121.547215705002,28.7017387844086,3.93672648190312
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州宏得利树脂有限公司</name>
+  <description/>
+  <styleUrl>#1984396571</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.600787413353,28.7117928981476,-0.564125620893317
+          121.60098589682,28.7119431018524,-0.504475000083703
+          121.602992189163,28.7117982625656,-0.22184710353706
+          121.602890265221,28.7104732513123,-0.770772987282308
+          121.600669396156,28.7106341838531,-0.945227725017786
+          121.600787413353,28.7117928981476,-0.564125620893317
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江豪博化工有限公司</name>
+  <description/>
+  <styleUrl>#2086354585</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.57309255785,28.7107756048241,5.55118755453519
+          121.575241007271,28.7118538528481,6.77764834679972
+          121.575342931213,28.71184848843,6.92608562263197
+          121.57546094841,28.7117948442497,6.99998906657129
+          121.576270975533,28.7106093078651,6.99998906657129
+          121.573958911362,28.709504237751,7.24598250043627
+          121.57309255785,28.7107756048241,5.55118755453519
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>原浙江南泰合成革有限公司</name>
+  <description/>
+  <styleUrl>#26025922</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.590190413353,28.712648666687,0
+          121.592218163368,28.7124984629822,0
+          121.592373731491,28.7124448188019,0
+          121.592427375671,28.7123804457855,0
+          121.592432740089,28.7122356064987,0
+          121.592228892204,28.7100254662704,-0.0624329735813319
+          121.592202070114,28.709945,-0.0582979833998181
+          121.592126968262,28.7098967202377,-0.0449861226931791
+          121.592041137573,28.7098538048935,-0.0297725675998774
+          121.589943650124,28.7099771865082,0
+          121.590190413353,28.712648666687,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江瑞博制药有限公司</name>
+  <description/>
+  <styleUrl>#2064212266</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.556530210281,28.7067611203766,3.47190869023665
+          121.558429214264,28.7040789113617,4.36149263769388
+          121.561572763229,28.7057847962952,4.17082867246002
+          121.559545013214,28.7084991918182,4.08128267434605
+          121.556530210281,28.7067611203766,3.47190869023665
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江正瑞科技有限公司</name>
+  <description/>
+  <styleUrl>#3715323219</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.603092124992,28.7119291398811,0.00275016097656
+          121.604991128975,28.7118218515205,1.39014956351883
+          121.605484655434,28.7175939653206,4.37502445195063
+          121.603596380287,28.7174437616158,3.65476190635098
+          121.603092124992,28.7119291398811,0.00275016097656
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>临海市光大电镀装饰有限公司（新厂区）</name>
+  <description/>
+  <styleUrl>#1160776293</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.553622599861,28.7071411203766,4.51087639226192
+          121.55457746627,28.7076346468353,3.99999359711956
+          121.555130001328,28.7067119669342,4.3094220631554
+          121.554244872353,28.706137974205,3.48720783484127
+          121.553622599861,28.7071411203766,4.51087639226192
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江海翔川南药业有限公司（老厂区）</name>
+  <description/>
+  <styleUrl>#323191211</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.569292547577,28.7088387930069,5.72312125042748
+          121.573036911362,28.7107270681534,5.54083314794282
+          121.575794222229,28.706703754631,4.58415083715794
+          121.571813824051,28.7051802599106,4.89748173992839
+          121.569292547577,28.7088387930069,5.72312125042748
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州市泰恒电镀有限公司</name>
+  <description/>
+  <styleUrl>#105321604</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.55219756316,28.7072587632294,4.9999920869368
+          121.553257035721,28.7077898406143,4.25077111840075
+          121.553678142536,28.7071756147499,4.48022262744831
+          121.552666949738,28.7065721177216,4.9999920869368
+          121.55219756316,28.7072587632294,4.9999920869368
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江银丰合成革有限公司</name>
+  <description/>
+  <styleUrl>#1178718842</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.594293373016,28.709729364418,-0.260312234822821
+          121.592657225517,28.7098205595245,-0.122015193264455
+          121.592614310173,28.7098795681229,-0.122007524664364
+          121.592576759247,28.7099385767212,-0.121969183611285
+          121.592560665993,28.7099814920654,-0.121877165898254
+          121.592775242714,28.7123525648346,0
+          121.592823522476,28.7123793869247,0
+          121.592898624329,28.7124062090149,0
+          121.594572322754,28.7123257427444,-0.0843463923003569
+          121.594293373016,28.709729364418,-0.260312234822821
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州凯迪污水处理有限公司</name>
+  <description/>
+  <styleUrl>#33437903</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.576130654739,28.7112965145721,6.99998906657129
+          121.578308608459,28.7080671349182,5.15305305578697
+          121.579907205032,28.7087215939178,6.10617661639403
+          121.577611234116,28.7120260754242,6.77043743546901
+          121.576130654739,28.7112965145721,6.99998906657129
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江台州市联创环保科技有限公司</name>
+  <description/>
+  <styleUrl>#2572183269</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.553320015869,28.7097553214264,4.8528936424048
+          121.554264153442,28.7102434834671,4.90529506326761
+          121.555143917999,28.7090043029022,5.51790230479789
+          121.554210509262,28.7085000476074,4.78352841383835
+          121.553320015869,28.7097553214264,4.8528936424048
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江高盛合成革有限公司</name>
+  <description/>
+  <styleUrl>#3040935801</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.597523716255,28.7123594748688,-0.283417862277468
+          121.600399044319,28.7121502625656,-0.468955985063354
+          121.600463417336,28.7121931779098,-0.460155190669349
+          121.600522425934,28.7122414576721,-0.450254296976093
+          121.600683358475,28.7139312493515,2.78472308105329
+          121.597690013214,28.7141243684006,-0.0968236451782224
+          121.597523716255,28.7123594748688,-0.283417862277468
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江宏元药业股份有限公司</name>
+  <description/>
+  <styleUrl>#3764181821</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.556007219574,28.7018334332047,6.69183983192718
+          121.558646513245,28.7033515635071,5.42896628354927
+          121.559794498703,28.7017046871719,5.6050158732454
+          121.557139111778,28.7002616587219,5.99999057675404
+          121.557090832016,28.7002294722137,5.99999057675404
+          121.556007219574,28.7018334332047,6.69183983192718
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州市德翔医化有限公司</name>
+  <description/>
+  <styleUrl>#1579200128</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.573920113739,28.7094759034576,7.20471777213779
+          121.575111014542,28.7100338029327,7.41164498471202
+          121.576956374344,28.7073086785736,4.77262820808449
+          121.575786931213,28.7067185925903,4.61637844405055
+          121.573920113739,28.7094759034576,7.20471777213779
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江海洲制药有限公司</name>
+  <description/>
+  <styleUrl>#171073836</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.562222729469,28.7053653869247,5.81840859541843
+          121.565022955681,28.7067064914322,5.7250532364027
+          121.567318926598,28.7033161792374,5.22765999867333
+          121.564465056206,28.7020609054184,4.8117033712868
+          121.562222729469,28.7053653869247,5.81840859541843
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州市恒光电镀有限公司</name>
+  <description/>
+  <styleUrl>#649279370</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.552760997345,28.7066309927292,4.9999920869368
+          121.55361930423,28.707135248024,4.50712377571378
+          121.554220119049,28.7061535595245,3.56865285218224
+          121.553420820763,28.7057351349182,4.75712339816809
+          121.553377905418,28.7057351349182,4.81962330378167
+          121.553313532402,28.7057512281723,4.93681062680712
+          121.553259888222,28.7057673214264,5.03837297342919
+          121.552766361763,28.7066417215652,4.9999920869368
+          121.552760997345,28.7066309927292,4.9999920869368
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江华迪合成革有限公司</name>
+  <description/>
+  <styleUrl>#3356417751</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.586598565468,28.712851031105,0
+          121.586394717583,28.7103404834671,0
+          121.586464455017,28.7102278306885,0
+          121.586582472214,28.7101688220901,0
+          121.586727311501,28.7101312711639,0
+          121.588438560852,28.7100668981476,0
+          121.588685324081,28.7127330139084,0
+          121.586598565468,28.712851031105,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>临海市建新化工有限公司</name>
+  <description/>
+  <styleUrl>#4013013741</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.538428434185,28.7021501656761,4.62960609072494
+          121.53925991898,28.702482759594,5.33594235180566
+          121.540000208668,28.7011684771767,5.54546514651396
+          121.539174088291,28.7009217139473,5.99999057675404
+          121.538997062496,28.7012060281029,5.99357920309399
+          121.53893268948,28.7013723250618,5.89982934467363
+          121.538868316463,28.7014527913322,5.80607948625326
+          121.538793214611,28.7014527913322,5.6967046514295
+          121.538428434185,28.7021501656761,4.62960609072494
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江东邦药业有限公司</name>
+  <description/>
+  <styleUrl>#894812392</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.565005482773,28.7067052090149,5.70147416091119
+          121.569018067459,28.708700772522,5.92412784687723
+          121.571614445786,28.7049671375732,4.27671893358367
+          121.56735509787,28.7033363544922,5.23374644502592
+          121.565005482773,28.7067052090149,5.70147416091119
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江同丰医药化工有限公司</name>
+  <description/>
+  <styleUrl>#4054749235</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.179531982803,28.7977439470825,6.99998906657129
+          121.181742123032,28.7976098366318,6.88184448530928
+          121.18210153904,28.7986934490738,3.54637376773891
+          121.18177430954,28.7987846441803,3.95947855169637
+          121.180588773155,28.7999809094009,4.92893636528261
+          121.180449298286,28.7998521633682,5.72188690649347
+          121.180572679901,28.7997073240814,5.77172798826714
+          121.179655364418,28.7989723988113,8.54343387034361
+          121.179531982803,28.7977439470825,6.99998906657129
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江华海立诚药业有限公司</name>
+  <description/>
+  <styleUrl>#2921952545</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.164159763229,28.8089428174744,7.83097258660187
+          121.162968862427,28.8077841031799,10.4942957829355
+          121.164835679901,28.8062820661316,8.29625019857795
+          121.165157544983,28.8064966428528,8.50140852969907
+          121.165136087311,28.8069687116394,9.10306149414809
+          121.166015851868,28.8077626455078,6.99998906657129
+          121.168751705063,28.805627607132,6.23578713176665
+          121.169191587341,28.8060353029022,6.82953623509564
+          121.168472755325,28.8072369325409,7.37844375798867
+          121.169309604538,28.8075373399506,6.19132703078469
+          121.168730247391,28.8089106309662,4.47603517016322
+          121.167775380981,28.8088999021301,7.27432762149515
+          121.167625177277,28.8089857328186,7.71182688157
+          121.167464244736,28.8090715635071,8.3611650487473
+          121.167335498703,28.809050105835,9.11116391611023
+          121.167088735474,28.8089964616547,10.5486617452225
+          121.164159763229,28.8089428174744,7.83097258660187
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江诚迅新材料有限公司（浙江诚迅皮革材料科技有限公司）</name>
+  <description/>
+  <styleUrl>#548258946</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.554979826706,28.7087050787125,5.08212615178672
+          121.556213642853,28.7093541732941,4.97254543949876
+          121.557329441803,28.707712661377,4.3288659117761
+          121.55635848214,28.7071333042297,3.72200550060461
+          121.555618192451,28.7082115522537,4.36337723723058
+          121.555387522476,28.7080720773849,4.16025254398645
+          121.554979826706,28.7087050787125,5.08212615178672
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江豪博合成革有限公司</name>
+  <description/>
+  <styleUrl>#2263568372</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.588693617058,28.7151926269836,4.05253696244919
+          121.588468311501,28.7128859272308,0
+          121.590190289688,28.7127947321243,0
+          121.59045851059,28.7154769411392,3.77286937221584
+          121.588693617058,28.7151926269836,4.05253696244919
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江永太科技股份有限公司（浙江永太化学有限公司）</name>
+  <description/>
+  <styleUrl>#2571186686</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.544387585953,28.7002757844086,3.99999359711956
+          121.546951777771,28.7015954312439,3.72795365721294
+          121.548925883606,28.6986235436554,4.45347531228332
+          121.546522624329,28.6972073372955,4.66265799637067
+          121.544387585953,28.7002757844086,3.99999359711956
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江华海天诚药业有限公司（浙江华海药业股份有限公司川南一分厂）</name>
+  <description/>
+  <styleUrl>#2268361087</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.555725374344,28.7016650780792,6.35594855029251
+          121.553579607132,28.7004098042603,5.99872542311477
+          121.554223337296,28.6994978531952,6.83153080987355
+          121.553515234116,28.6991330727692,6.99530742919242
+          121.555264034393,28.6967405423279,3.26277461452962
+          121.558021345261,28.6983713254089,4.73221615797876
+          121.555725374344,28.7016650780792,6.35594855029251
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>联化科技（台州）有限公司</name>
+  <description/>
+  <styleUrl>#36221164</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.552068259911,28.694793689827,4.25891644938582
+          121.55378487368,28.6923045998611,0
+          121.562003162102,28.6925620919266,-0.0339131702963782
+          121.562131908134,28.6926693802872,-0.0351872920825964
+          121.562131908134,28.6928410416641,-0.0332909103219268
+          121.55814078112,28.6982912903824,4.85334073071425
+          121.552068259911,28.694793689827,4.25891644938582
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江瑞力革业有限公司</name>
+  <description/>
+  <styleUrl>#4170044177</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.586180253967,28.7124071924515,0
+          121.584420724854,28.7122087089844,0
+          121.584114953026,28.7140969841309,0
+          121.586142703041,28.7146495191879,2.21805581644183
+          121.586233898148,28.7146495191879,2.21805581644183
+          121.586303635582,28.7146173326797,2.07743103729915
+          121.58636264418,28.7145368664093,1.72586908944247
+          121.586394830688,28.7144510357208,1.35086967839534
+          121.586180253967,28.7124071924515,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江永太科技股份有限公司（浙江永太化学有限公司）</name>
+  <description/>
+  <styleUrl>#3348181407</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.545805681862,28.696010082695,5.31564465466817
+          121.545516003288,28.695822328064,5.16720737883593
+          121.545848597206,28.6932420429916,6.42174243626829
+          121.54591833464,28.6930918392868,6.34369626880626
+          121.545998800911,28.6929952797623,6.20307148117571
+          121.546089996017,28.6929255423279,6.10150913455364
+          121.546224106468,28.6928450760574,5.95298428391368
+          121.548391331352,28.6929040846558,4.46554606073544
+          121.54902433268,28.69330105159,5.29677906095636
+          121.546803463615,28.6945777830811,6.49222112228344
+          121.545805681862,28.696010082695,5.31564465466817
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江先锋科技股份有限公司</name>
+  <description/>
+  <styleUrl>#817970850</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.334516063477,28.7108328148193,5.81911636101679
+          121.333904519821,28.7095453544922,5.99999057675404
+          121.338550105835,28.7078287407227,5.68328972169233
+          121.338829055573,28.7098886772461,6.19411579469825
+          121.334516063477,28.7108328148193,5.81911636101679
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>临海市利民化工有限公司</name>
+  <description/>
+  <styleUrl>#1410339415</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.239958295631,28.8013600972366,16.8680231009122
+          121.239926109123,28.801252808876,15.4149003915924
+          121.239861736107,28.8011079695892,13.7274030588561
+          121.239738354492,28.8009524014664,12.625842321442
+          121.239738354492,28.800882664032,11.4070942355389
+          121.239706167984,28.8007217314911,9.21621068666006
+          121.239700803566,28.8006359008026,8.70854348632848
+          121.23969007473,28.800528612442,8.42729391106738
+          121.241562256622,28.798007335968,18.7098384037317
+          121.241980681229,28.7985115912628,14.9969422971751
+          121.242205986786,28.7986081507874,15.431789125105
+          121.242506394196,28.7986188796234,18.5199748432121
+          121.242731699753,28.7985115912628,24.9394762125613
+          121.242914089966,28.7984257605743,30.4415125381483
+          121.243085751343,28.7985008624268,31.389268222852
+          121.243235955048,28.7985866931152,31.6392677547689
+          121.24336470108,28.7987154391479,30.6103828125126
+          121.243622193146,28.798897829361,31.0322574639921
+          121.243708023834,28.7990373042297,28.7666361061847
+          121.243836769867,28.7992089656067,26.6518958952332
+          121.2439655159,28.7993698981476,24.9175234710042
+          121.244920382309,28.7999492552948,28.69924663189
+          121.245006212997,28.8000350859833,29.8283934406148
+          121.245006212997,28.8001316455078,29.9690182791726
+          121.245006212997,28.8002711203766,30.1721430459783
+          121.244845280457,28.8004105952454,26.9921253943404
+          121.244630703735,28.8006680873108,20.8907166999958
+          121.244469771194,28.8009470370483,15.9613727090789
+          121.24442685585,28.8010757830811,14.7543213796694
+          121.244501957703,28.8014083769989,15.0916790758533
+          121.244652161407,28.8015907672119,17.1935737308478
+          121.24467361908,28.801794615097,17.2404485412277
+          121.244652161407,28.8020413783264,16.5502971360163
+          121.244662890244,28.8022452262115,16.722171870795
+          121.244823822784,28.8024812606049,19.4619747068505
+          121.244898924637,28.8027494815063,21.2275971404722
+          121.244931111145,28.80303916008,22.4932198726563
+          121.244920382309,28.8033288386536,24.0692972671039
+          121.24483455162,28.8035434153748,25.1553780578359
+          121.244630703735,28.8036399748993,25.3238342934473
+          121.244405398178,28.803403940506,22.3969480695628
+          121.244212279129,28.803221550293,21.5219493683384
+          121.244008431244,28.8030606177521,21.3344495609603
+          121.243901142883,28.8027494815063,17.622511396011
+          121.243847498703,28.8025563624573,15.8881390887958
+          121.243750939178,28.8024598029327,15.3256399382736
+          121.243579277802,28.8023847010803,14.3510430258456
+          121.243160853195,28.8024061587524,15.140439459246
+          121.242935547638,28.8024061587524,15.2649592261114
+          121.242742428589,28.8024061587524,14.9782777609176
+          121.242506394196,28.8024812606049,14.8220280421524
+          121.242291817474,28.8024812606049,14.1140158081063
+          121.24189485054,28.8025241759491,13.6269257333915
+          121.241744646835,28.8025992778015,13.9550504359133
+          121.241615900803,28.8026421931458,14.7113776777868
+          121.241465697098,28.8027065661621,18.25891784106
+          121.241347679901,28.8025349047852,16.8995448543546
+          121.241111645508,28.8022666838837,15.6026716148224
+          121.241025814819,28.8021057513428,13.9307991679521
+          121.240736136246,28.8018589881134,14.1522012529657
+          121.240500101852,28.8016765979004,14.7459504241977
+          121.240339169312,28.8015693095398,15.4490743906434
+          121.240199694443,28.8014512923431,15.2977130034932
+          121.24012459259,28.801419105835,15.7195873607263
+          121.240038761902,28.8013761904907,16.0945867944078
+          121.239958295631,28.8013600972366,16.8680231009122
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州市康达化工有限公司</name>
+  <description/>
+  <styleUrl>#3468281990</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.339933685844,28.7115878677368,6.08652456828377
+          121.340604238098,28.7115342235565,6.20236527113205
+          121.340373568123,28.7097264146805,7.72714682729993
+          121.33978348214,28.7097693300247,6.99998906657129
+          121.339933685844,28.7115878677368,6.08652456828377
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江沙星科技有限公司</name>
+  <description/>
+  <styleUrl>#2194549349</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.338851328697,28.709852542675,6.24674049855902
+          121.339790101852,28.70967551688,6.99998906657129
+          121.340342636909,28.7096272371178,7.6821000672057
+          121.340138789024,28.7077818773155,6.73761416836292
+          121.339602347221,28.707867708004,6.86261397959008
+          121.339543338623,28.7075994871025,6.47198956950522
+          121.339022990074,28.7076316736107,6.03933977843681
+          121.338663574066,28.7077282331352,5.5557904364676
+          121.338663574066,28.7078408859139,5.88391494093888
+          121.338561650124,28.7078569791679,5.78235259431682
+          121.338851328697,28.709852542675,6.24674049855902
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>台州长雄塑料有限公司</name>
+  <description/>
+  <styleUrl>#937193946</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.550030535346,28.7061970295842,4.63271783299496
+          121.551183885223,28.7045716109212,4.06232891038448
+          121.552943414336,28.7054621043142,5.05476681281075
+          121.553002422935,28.7055532994207,5.10164174202093
+          121.553029245025,28.7056230368551,5.16414164763451
+          121.553039973861,28.7056820454534,5.23445404144979
+          121.551967090255,28.7072055401738,4.89826514796608
+          121.550030535346,28.7061970295842,4.63271783299496
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江润景实业有限公司</name>
+  <description/>
+  <styleUrl>#1150434386</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.597704158621,28.7141598314923,-0.0165708883492598
+          121.600665317373,28.713923797099,2.73490350610105
+          121.600933538275,28.7168527693433,3.99634815390525
+          121.600879894094,28.7169493288678,3.94149659205623
+          121.600772605734,28.7170566172284,3.84808015448829
+          121.600611673193,28.7170351595563,3.68792415413405
+          121.597918735342,28.7166811079663,3.18686313261894
+          121.597704158621,28.7141598314923,-0.0165708883492598
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+<Placemark>
+  <name>浙江大利革业有限公司</name>
+  <description/>
+  <styleUrl>#1466627559</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          121.590450114719,28.7154893133488,3.81469694409815
+          121.592295474522,28.7157682630863,4.98366117548302
+          121.592445678226,28.7157682630863,5.20241084513054
+          121.592595881931,28.7157253477421,5.1485526471035
+          121.592703170292,28.7156502458897,4.55841848714201
+          121.592746085636,28.7155214998569,3.93341946495774
+          121.592445678226,28.7127534601536,0
+          121.59232766103,28.7127212736454,0
+          121.5920808978,28.7126998159733,0
+          121.590214080326,28.7127963754978,0
+          121.590450114719,28.7154893133488,3.81469694409815
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+</Folder>
+</Document>
+</kml>
